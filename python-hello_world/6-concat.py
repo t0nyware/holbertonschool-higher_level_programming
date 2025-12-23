@@ -2,4 +2,5 @@
 #
 str1 = "Welcome to "
 str2 = "Holberton School!"
+# using str1 and str2 for concatenation
 print(str1 + str2)
